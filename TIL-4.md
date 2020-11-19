@@ -27,3 +27,6 @@ master로 이동하면 vsc -> git이 없다 ctrl+shift+`도 안먹힌다 왜그�
 하여튼 master에서 터미널로 push하면 된다!
 
 ### 병합이 끝나면 왠만하면 branch는 삭제해 주자.
+
+참고 사이트
+https://tagilog.tistory.com/377
