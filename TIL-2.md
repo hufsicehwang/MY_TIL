@@ -1,4 +1,4 @@
-# 🦄2일차🦄
+# 🦄TIL-2🦄
 ## visual studio 깃 연동 하는 방법
 1. 깃에서 repository 만든 후 visual studio안에서 repository url clone
 2. 3번째 아이콘(소스 제어) -> 체크표시(commit) -> commit
