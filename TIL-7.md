@@ -12,8 +12,8 @@
   - EditText (et_id);
   - Button (btn_id);
 2. oncreate안에서 코드파일의 id와 layout의 id 연동하기
-  - et_id = __findViewByid__(R.et_id)
-  - btn_id = __findViewByid__(R.btn_id)
+  - et_id = __findViewByid__(R.id.et_id)
+  - btn_id = __findViewByid__(R.id.btn_id)
   
   
 ## 버튼 눌렀을때 행동 취하기
