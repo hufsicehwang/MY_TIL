@@ -28,7 +28,7 @@
   
   }
   
----
+----
 1. __findViewByid()__: 동적인 코드파일의 변수와 정적인 레이아웃 id를 연동해줌
 2. __setOnClickListener(new View.OnClickListener()__ : 클릭시 행동을 취할 수 있음
 3. __onClick(View v)__: 셋온클릭리스너랑 세트인 것 같음 __여기(온클릭)__에서 취할 행동을 적음
