@@ -16,3 +16,5 @@
 - 다운 받은 sdk 파일에서 libDaumMapAndroid.jar는 /app/libs에 저장
 - libMapEngineApi.so은 /app/source/main/jniLibs
   - 여기서 .so는 3개다 복사하는데 jniLibs 파일은 없음으로 내가 만드는 것임.
+
+
