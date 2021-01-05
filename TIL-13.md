@@ -23,7 +23,7 @@ MapPoint mapPoint2 = MapPoint.mapPointWithGeoCoord(x, y);
 임의의 좌표(위도, 경도)에 대한 내용을 담을 수 있는 객체의 선언은 위와 같이 해야함!
 
 
-#### oher
+### oher
 안드로이드 배포를 위해서는 패키기 명을 바꿔야함!
 
 패키기명을 바꾸는 방법
