@@ -1,6 +1,6 @@
 # 🐬TIL-15🐬
 
-## ViewPager
+## 🐶ViewPager
 - build gradle에서 동기화 시키기
 ```
 implementation 'com.google.android.material:material:1.2.1'
@@ -20,7 +20,8 @@ implementation 'com.google.android.material:material:1.2.1'
         tab.setupWithViewPager(viewPager);
  ```
  
- ## RecyclerView
+
+ ## 🐰RecyclerView
  RecyclerView는 액티비티 1개, 레이아웃 파일 1개, 코드 파일 2개가 필요하다.
  - 액티비티의 레이아웃 파일에서 <RecyclerView>를 생성한다.   (MainActivity)
  - 레이아웃 파일에서 나타내고 싶은 데이터의 형태를 만들어 준다. (item_list)
@@ -42,7 +43,9 @@ implementation 'com.google.android.material:material:1.2.1'
             arrayList.add(mainData);
         }
 ```
-### Tips
+
+
+### 🐯Tips
 - recyclerview를 가로로 만드로 싶다면 메인 코드파일에서
 ```java
 linearLayoutManager = new LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL,false);
