@@ -87,4 +87,4 @@
        text = findViewById(R.id.text_Splash);  
        Animation animation = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.scale);  // 애니매이션.xml 선택
        text.startAnimation(animation);
-    ```   
+    ```        
